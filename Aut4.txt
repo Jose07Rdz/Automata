@@ -1,0 +1,11 @@
+6
+5
+1
+Sig{a,b,c,d,@}
+F{5}
+{ 0 > 1 | NULL | NULL | NULL | 2 ,
+1 > NULL | 0 | NULL | NULL | 3 ,
+2 > NULL | NULL | 3 | NULL | 4 ,
+3 > NULL | NULL | NULL | 2 | 5 , 
+4 > 5 | NULL | NULL | NULL | NULL , 
+5 > NULL | 4 | NULL | NULL | NULL }
